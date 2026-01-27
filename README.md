@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<# Hi there, I'm a Designer! 👋
+# Hi there, I'm a Designer! 👋
 
 I am a 2nd-year IT Design student at KAI. I specialize in creating high-quality infographics and creative covers.
 
 ## 📁 Portfolio
-* [**My Works (PDF)**](./portfolio.pdf) — My best design cases.
-* [**Figma Projects**](https://www.figma.com/design/cWPf5ZMBvC1x2lcNekWHjO/Untitled?node-id=0-1&t=t3mCr3R2Qn40bnHQ-1)
-(https://www.figma.com/design/0QbHjtBkdv2xjewW9H1xta/Untitled?node-id=0-1&t=hWc48xAi8FHSM2JG-1)
-* ) — View my live layouts.
+* [**View Presentation (PDF)**](./infografic.pdf) — Ready to view in browser.
+* [**Source Project (PSD)**](./portfolio.psd) — Downloadable Photoshop source file.
+* [**Figma Project #1**](https://www.figma.com/design/cWPF5ZMBvC1x2lcNekWHjO/Untitled?node-id=0-1&t=t3mCr3R2Qn40bnHQ-1) — Social Media Design.
+* [**Figma Project #2**](https://www.figma.com/design/0QbHjtBkdv2xjewW9H1xta/Untitled?node-id=0-1&t=hWc48xAi8FHSM2JG-1) — Infographics Layouts.
 
 ## 🛠 Skills & Tools
 * **Design:** Adobe Photoshop, Figma.
