@@ -5,11 +5,11 @@
 I am a 2nd-year IT Design student at KAI. I specialize in creating high-quality infographics and creative covers.
 
 ## 📁 Portfolio
-* [**View Presentation (PDF)**](./infografic.pdf) — Ready to view in browser.
-* [**Source Project (PSD)**](./portfolio.psd) — Downloadable Photoshop source file.
+* [View Presentation (PDF)](./infographic%20.pdf)
+* [Source Project (PSD)](./portfolio%20.psd)
+* [Figma Project #1](https://www.figma.com/design/cWPF5ZMBvC1x2lcNekWHjO/Untitled?node-id=0-1&t=t3mCr3R2Qn40bnHQ-1)
+* [Figma Project #2](https://www.figma.com/design/0QbHjtBkdv2xjewW9H1xta/Untitled?node-id=0-1&t=hWc48xAi8FHSM2JG-1)
 
-* [**Figma Project #1**](https://www.figma.com/design/cWPF5ZMBvC1x2lcNekWHjO/Untitled?node-id=0-1&t=t3mCr3R2Qn40bnHQ-1) —Infographics Layouts. 
-* [**Figma Project #2**](https://www.figma.com/design/0QbHjtBkdv2xjewW9H1xta/Untitled?node-id=0-1&t=hWc48xAi8FHSM2JG-1) — Social Media Design.
 
 ## 🛠 Skills & Tools
 * **Design:** Adobe Photoshop, Figma.
